@@ -67,7 +67,7 @@ def game_hash
     :team_name => 'Charlotte Hornets',
     :colors => ['Turquiose', 'Purple'],
     :players => [
-      "Jeff Adrien" =>{
+      {
         :player_name => 'Jeff Adrien',
         :number => 4,
         :shoe => 18,
@@ -78,7 +78,7 @@ def game_hash
         :blocks => 7,
         :slam_dunks => 2
       },
-      :player_2 => {
+      {
         :player_name => 'Bismack Biyombo',
         :number => 0,
         :shoe => 16,
@@ -89,7 +89,7 @@ def game_hash
         :blocks => 15,
         :slam_dunks => 10
       },
-      :player_3 => {
+       {
         :player_name => 'DeSagna Diop',
         :number => 2,
         :shoe => 14,
@@ -100,7 +100,7 @@ def game_hash
         :blocks => 5,
         :slam_dunks => 5
       },
-      :player_4 => {
+      {
         :player_name => 'Ben Gordon',
         :number => 8,
         :shoe => 15,
@@ -111,7 +111,7 @@ def game_hash
         :blocks => 1,
         :slam_dunks => 0
       },
-      :player_5 => {
+      {
         :player_name => 'Kemba Walker',
         :number => 33,
         :shoe => 15,
