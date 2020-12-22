@@ -16,7 +16,7 @@ def game_hash
         :blocks => 1,
         :slam_dunks => 1
       },
-      "reggie evans" => {
+       {
         :player_name => 'Reggie Evans',
         :number => 30,
         :shoe => 14,
@@ -27,7 +27,7 @@ def game_hash
         :blocks => 12,
         :slam_dunks => 7
       },
-      "brook lopez" => {
+       {
         :player_name => 'Brook Lopez',
         :number => 11,
         :shoe => 17,
@@ -38,7 +38,7 @@ def game_hash
         :blocks => 1,
         :slam_dunks => 15
       },
-      "mason plumlee" => {
+       {
         :player_name => 'Mason Plumlee',
         :number => 1,
         :shoe => 19,
@@ -49,7 +49,7 @@ def game_hash
         :blocks => 8,
         :slam_dunks => 5
       },
-      "jason terry" => {
+      {
         :player_name => 'Jason Terry',
         :number => 31,
         :shoe => 15,
